@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Ant-Version: Apache Ant 1.9.6
-Created-By: 1.8.0_45-b15 (Oracle Corporation)
-Project: kawa
-Company: Nielsen
-Built-By: JKT
-Built-On: 2016-05-31 14:31:36
-Implementation-Version: 4.0.0
-
