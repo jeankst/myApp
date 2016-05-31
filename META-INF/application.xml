@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE application PUBLIC "-//Sun Microsystems, Inc.//DTD J2EE Application 1.2//EN" "http://java.sun.com/j2ee/dtds/application_1_2.dtd">
+
+<!-- The application element is the root element of a J2EE application deployment descriptor.  -->
+<application>
+  <display-name>myApp</display-name>
+  <module>
+    <web>
+      <web-uri>web</web-uri>
+      <context-root>/myapp</context-root>
+    </web>
+  </module>
+</application>
